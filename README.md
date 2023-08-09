@@ -1,7 +1,5 @@
 ## Olá, meu nome é <strong>Gabriel Gomes!</strong>
 
-<p> Estudante na Fatec ITU - Análise e Desenvolvimento de Sistemas<br/> Eu sou desenvolvedor Mobile.</p>
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <div style="display: flex; justify-content: space-evenly">
@@ -22,12 +20,10 @@
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> </code>
 
-[linkedin]: www.linkedin.com/in/gabrielggomes
 
-## <h3>Onde me encontrar</h3>
+## Onde me encontrar
 
-👔 [LinkedIn][linkedin]
-
+<a href="www.linkedin.com/in/gabrielggomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 
