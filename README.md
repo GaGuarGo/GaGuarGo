@@ -21,10 +21,5 @@
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> </code>
 
 
-## Onde me encontrar
-
-<a href="www.linkedin.com/in/gabrielggomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
 
 
