@@ -2,15 +2,11 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<div style="display: flex; justify-content: space-evenly">
-<a href="https://github.com/GaGuargo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaguargo&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/GaGuargo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaguargo&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<div>
+  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api?username=gaguargo&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
+
 
 ## 🚀 Minhas Skills
 
@@ -19,6 +15,8 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> </code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </code>
+
 
 
 
