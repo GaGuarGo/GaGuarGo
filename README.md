@@ -7,6 +7,10 @@
   <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
 
+| Preview | Parameters |
+|:-------:|:----------:|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=gaguargo&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) | `theme=tokyonight` `background=000` `dates=FFF`|
+
 
 ## 🚀 Minhas Skills
 
@@ -18,7 +22,6 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> </code>
 
-![Snake animation](https://github.com/gaguargo/gagauargo/blob/output/github-contribution-grid-snake.svg)
 
 
 
