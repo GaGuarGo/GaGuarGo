@@ -18,9 +18,8 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> </code>
 
-<div>
-  <img height="180em" src="https://github.com/gaguargo/gaguargo/blob/output/github-contribution-grid-snake.svg" />
-</div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
