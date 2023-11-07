@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <div>
-  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api?username=gaguargo&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api?username=gaguargo&count_private=true&show_icons=true&theme=tokyonight&background=000&border=30A3D" />
+  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=compact&theme=tokyonight&background=000&border=30A3D&langs_count=8" />
 </div>
 
 | Preview | Parameters |
