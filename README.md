@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>Gabriel Gomes!</strong>
+## <strong>Gabriel Gomes</strong>
 
 
 <p align="start">
@@ -8,50 +8,72 @@
   <img src="https://img.shields.io/github/stars/gaguargo?style=for-the-badge">
 </p>
 
-## 📈 Status
-
-<table align="center">
-  <tr>
-    <td align="center">
-       <a href="https://github.com/gaguargo" target="_blank">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaguargo&layout=compact&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gaguargo" target="_blank">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaguargo&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gaguargo" target="_blank">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaguargo&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gaguargo" target="_blank">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaguargo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br>
-
-
-## 🚀 Minhas Skills
+## TECNOLOGIAS
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> </code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> </code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> </code>
+
+</br>
+
+```dart
+import Desenvolvedor from "GaGuarGo";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Gabriel Guarnieri Gomes";
+  formacao = "Análise e Desenvolvimento de Sistemas - Fatec ITU"
+  area = "Desenvolvimento Mobile && Back-end";
+  trabalho = "AgendaClick";
+}
+
+class Skills extends Desenvolvedor {
+   mobile_stack = <String, List<String>>{
+    "Tecnologias": ['Flutter', 'Dart', 'Firebase'],
+    "State Managment": ['Provider', 'Bloc', 'Cubit', 'MobX'],
+    "Dependency Injection": ['Provider', 'Flutter Modular'],
+    "Architecture": ['MVC', 'MVVM'],
+    "Local Storage": ['SQFlite', 'SharedPreferences', 'Hive'],
+    "REST API": [DIO, http]
+    "Native Functions": ['Manipulação de Galeria e câmera', 'Localização', 'Notificações Push', 'Permissões de Acesso'],
+    "Publish": ['PlayStore', 'AppleStore'],
+    "CI/CD": ['CodeMagic']
+  };
+
+  backend_stack = <String, List<String>>{
+    "Tecnologias": ['Laravel', 'PHP', 'SQL', 'Docker],
+    "Architecture": ['MVC'],
+    "Concepts": ['Polices', 'Gates', 'Authorization', 'API Throttling', 'Queue', 'Pagination','Sending Email', 'Cache', 'Personalized Json Response', 'Relational Databases']
+  };
+
+}
+```
+
+## 📈 Status
+
+<table align="center">
+  <tr>
+    <td align="center">
+       <a href="https://github.com/gaguargo" target="_blank">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=compact&theme=tokyonight&langs_count=4" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gaguargo" target="_blank">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaguargo&count_private=true&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+
 
 
 
