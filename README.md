@@ -59,12 +59,12 @@ class Skills extends Desenvolvedor {
   <tr>
     <td align="center">
        <a href="https://github.com/gaguargo" target="_blank">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=compact&theme=tokyonight&langs_count=4" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaguargo&count_private=true&layout=donut&theme=tokyonight&langs_count=4" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/gaguargo" target="_blank">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaguargo&count_private=true&theme=tokyonight" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaguargo&rank_icon=github&theme=tokyonight&show_icons=true&prs_merged,prs_merged_percentage" />
       </a>
     </td>
   </tr>
