@@ -28,16 +28,17 @@ class SobreMim extends Desenvolvedor {
   nome = "Gabriel Guarnieri Gomes";
   formacao = "Análise e Desenvolvimento de Sistemas - Fatec ITU"
   area = "Desenvolvimento Mobile && Back-end";
-  trabalho = "AgendaClick";
+  trabalho = "Desenvolvedor FullStack - AgendaClick";
 }
 
 class Skills extends Desenvolvedor {
    mobile_stack = <String, List<String>>{
-    "Tecnologias": ['Flutter', 'Dart', 'Firebase'],
+    "Tecnologias": ['Flutter', 'Dart'],
     "State Managment": ['Provider', 'Bloc', 'Cubit', 'MobX'],
     "Dependency Injection": ['Provider', 'Flutter Modular'],
     "Architecture": ['MVC', 'MVVM'],
     "Local Storage": ['SQFlite', 'SharedPreferences', 'Hive'],
+    "Cloud Storage - Firebase": ['Firestore', 'Cloud Functions', 'Analytics', 'Storage', 'Messenger'],
     "REST API": [DIO, http]
     "Native Functions": ['Manipulação de Galeria e câmera', 'Localização', 'Notificações Push', 'Permissões de Acesso'],
     "Publish": ['PlayStore', 'AppleStore'],
@@ -47,6 +48,7 @@ class Skills extends Desenvolvedor {
   backend_stack = <String, List<String>>{
     "Tecnologias": ['Laravel', 'PHP', 'SQL', 'Docker],
     "Architecture": ['MVC'],
+    "Ecosystem": ['Sanctum', 'LiveWire', 'Breeze'],
     "Concepts": ['Polices', 'Gates', 'Authorization', 'API Throttling', 'Queue', 'Pagination','Sending Email', 'Cache', 'Personalized Json Response', 'Relational Databases']
   };
 
