@@ -46,7 +46,7 @@ class Skills extends Desenvolvedor {
   };
 
   backend_stack = <String, List<String>>{
-    "Tecnologias": ['Laravel', 'PHP', 'SQL', 'Docker],
+    "Tecnologias": ['Laravel', 'PHP', 'SQL', 'Docker'],
     "Architecture": ['MVC'],
     "Ecosystem": ['Sanctum', 'LiveWire', 'Breeze'],
     "Concepts": ['Polices', 'Gates', 'Authorization', 'API Throttling', 'Queue', 'Pagination','Sending Email', 'Cache', 'Personalized Json Response', 'Relational Databases']
