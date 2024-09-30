@@ -28,7 +28,7 @@ class SobreMim extends Desenvolvedor {
   nome = "Gabriel Guarnieri Gomes";
   formacao = "Análise e Desenvolvimento de Sistemas - Fatec ITU"
   area = "Desenvolvimento Mobile && Back-end";
-  trabalho = "Desenvolvedor FullStack - AgendaClick";
+  trabalho = "Desenvolvedor Flutter - OMNI SAÚDE";
 }
 
 class Skills extends Desenvolvedor {
@@ -42,7 +42,8 @@ class Skills extends Desenvolvedor {
     "REST API": [DIO, http]
     "Native Functions": ['Manipulação de Galeria e câmera', 'Localização', 'Notificações Push', 'Permissões de Acesso'],
     "Publish": ['PlayStore', 'AppleStore'],
-    "CI/CD": ['CodeMagic']
+    "CI/CD": ['CodeMagic'],
+    "TESTS": ['Unit Test', 'Widget Test', 'Integration Test', 'E2E Test']
   };
 
   backend_stack = <String, List<String>>{
