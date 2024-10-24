@@ -34,11 +34,11 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
    mobile_stack = <String, List<String>>{
     "Tecnologias": ['Flutter', 'Dart'],
-    "State Managment": ['Provider', 'Bloc', 'Cubit', 'MobX'],
+    "State Managment": ['Provider', 'Bloc', 'Cubit', 'MobX', 'GetX'],
     "Dependency Injection": ['Provider', 'Flutter Modular'],
     "Architecture": ['MVC', 'MVVM'],
     "Local Storage": ['SQFlite', 'SharedPreferences', 'Hive'],
-    "Cloud Storage - Firebase": ['Firestore', 'Cloud Functions', 'Analytics', 'Storage', 'Messenger'],
+    "Cloud Storage - Firebase": ['Firestore', 'Cloud Functions', 'Analytics', 'Storage', 'Messenger', 'Test Lab'],
     "REST API": [DIO, http]
     "Native Functions": ['Manipulação de Galeria e câmera', 'Localização', 'Notificações Push', 'Permissões de Acesso'],
     "Publish": ['PlayStore', 'AppleStore'],
